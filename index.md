@@ -7,7 +7,7 @@ Fisierele accesate prin link-uri pot fii:
   2. Gazduite pe server-ul site-ului curent.
 De asemenea, prin aceste link-uri se pot accesa si sectiunii din alte pagini ale aceluiasi  site.
 
-### Sitaxa unui link Markdown
+### Sintaxa unui link Markdown
 
 Tipuri de link-uri in Markdown
   1. Link-uri clasice (normale)
