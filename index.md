@@ -33,7 +33,7 @@ Iata un link [important] catre siteul Google.
 
 #### Link-uri catre imaginii
 
-:[text descriptiv Imagine](img)
+[https://pxhere.com/ro/photo/766831](img)
 
 [Elemente avansate de Markdown](avansate.md)
 
