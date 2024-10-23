@@ -35,7 +35,7 @@ Iata un link [important] catre siteul Google.
 
 :[text descriptiv Imagine](img)
 
-avansate.md
+(avansate.md)
 
 
 
