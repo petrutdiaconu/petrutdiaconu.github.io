@@ -35,7 +35,5 @@ Iata un link [important] catre siteul Google.
 
 :[text descriptiv Imagine](img)
 
-(avansate.md)
-
-
+[Elemente avansate de Markdown](avansate.md)
 
