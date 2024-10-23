@@ -16,10 +16,9 @@ Tipuri de link-uri in Markdown
 #### Link-uri clasice
 
 [Textul link-ului](https://google.com)
+
 [Textul link-ului](https://google.com "Acecesare site Google")
 
 #### Linkuri referentiale
 
-Iata un [link][link1] catre site-ul Google.
-[link1:https://google.com]
 
