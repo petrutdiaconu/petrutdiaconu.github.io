@@ -21,4 +21,6 @@ Tipuri de link-uri in Markdown
 
 #### Linkuri referentiale
 
+Iata un [link][link1] catre site-ul google.
 
+[link1]: https://google.com/
