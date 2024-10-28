@@ -1,5 +1,11 @@
 ![Text descriptiv imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
 
+#### Cuprins
+
+[Elemente avansate de Markdown](avansate.md)
+
+[Formule cu mathjax](mathjax.md)
+
 # Implementarea relatiilor in Markdown
 
 ## Implemetarea relatiilor / legaturilor catre alte fisiere.
@@ -35,8 +41,6 @@ Iata un link [important] catre siteul Google.
 
 #### Link-uri catre imaginii
 
+#### Cuprins
+
 ![Text descriptiv imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
-
-[Elemente avansate de Markdown](avansate.md)
-
-[Formule cu mathjax](mathjax.md)
