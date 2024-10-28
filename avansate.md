@@ -9,4 +9,4 @@ Text
 **Cuprins**
 
 [Elemente avasante de Markdown](avansate.md)
-***
+
