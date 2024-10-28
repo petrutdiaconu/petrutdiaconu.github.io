@@ -36,4 +36,5 @@ Iata un link [important] catre siteul Google.
 ![Text descriptiv imagine]()
 
 [Elemente avansate de Markdown](avansate.md)
+
 [Formule cu mathjax](mathjax.md)
