@@ -87,3 +87,4 @@ $$\sum_{i=0}^n i^2 = \frac{(n^2+n) \times (2n+1)}{6}$$
 **Exemple:**
 
 $$ \int_0^1 x^4dx $$
+
